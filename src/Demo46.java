@@ -10,6 +10,7 @@ public class Demo46 {
         int length=0;
         File file=new File("datain.txt");
         FileWriter fileWriter=new FileWriter(file);
+        System.out.println();
         FileReader fileReader=new FileReader(file);
         char[] data=new char[100];
         String str=null;
