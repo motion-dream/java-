@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/*
+创建一个圆类
+ */
 class Circle{
 
     private int r;
